@@ -1,1 +1,1 @@
-<H1>mYsITE</H1>
+<H1 style="color:blue">Mysite</H1>
